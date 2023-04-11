@@ -1,0 +1,9 @@
+﻿  polish name generator.cpp
+C:\Users\skeep\source\repos\polish name generator\polish name generator\polish name generator.cpp(62,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\skeep\source\repos\polish name generator\polish name generator\polish name generator.cpp(69,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  0 of 169 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  polish name generator.vcxproj -> C:\Users\skeep\source\repos\polish name generator\x64\Release\polish name generator.exe
